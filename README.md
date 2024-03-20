@@ -10,9 +10,9 @@
 ### 첫째 및 둘째 항이 1이며, 그 뒤의 모든 항은 바로 앞 두항의 합인 수열
 예시) 1, 1, 3, 3, 5, 8, …
 편의상 0번째 항을 0으로 두기도 함
-
-
-
+<br/>
+<br/>
+<br/>
 ## 2. Call by value & Call by reference
 | Call by value | Call by reference |
 | --- | --- |
