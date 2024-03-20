@@ -1,5 +1,7 @@
 # study
 
+
+# Call by value & Call by reference
 | Call by value | Call by reference |
 | --- | --- |
 | 인자로 받은 값을 복사하여 처리 | 인자로 받은 값의 주소를 참조하여 직접 값에 영향을 줌 |
