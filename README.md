@@ -1,7 +1,7 @@
 # study
 
 ## 목차
-1. [Call by value & Call by reference](#1.-Call-by-value-&-Call-by-reference)
+1. [Call by value & Call by reference](#1-call-by-value-&-call-by-reference)
 
 ---
 
