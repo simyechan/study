@@ -1,15 +1,24 @@
 # study
 
 ## 목차
+<details>
+<summary>자료구조, 알고리즘</summary>
+<div markdown="1">
+
 1. [피보나치 수열](#1-피보나치-수열)
 2. [Call by value &amp; Call by reference](#2-call-by-value--call-by-reference)
 3. [시간복잡도와 공간복잡도](#3-시간복잡도와-공간복잡도)
 4. [정렬과 시간 복잡도](#4-정렬과-시간-복잡도)
 5. [배열과 연결리스트](#5-배열과-연결리스트)
 6. [스택과 큐](#6-스택과-큐)
-7. [DFS, BFS](#7-DFS-BFS)
+7. [DFS, BFS](#7-dfs-bfs)
+</div>
+</details>
 
 ---
+<details>
+<summary>자료구조, 알고리즘</summary>
+<div markdown="1">
 
 ## 1. 피보나치 수열
 ### 첫째 및 둘째 항이 1이며, 그 뒤의 모든 항은 바로 앞 두항의 합인 수열
@@ -198,6 +207,9 @@
 | 모든 정점을 방문하는 문제 | 유리 | 유리 |
 | 경로의 특징을 저장하는 문제 | 유리 | 불리 |
 | 최단거리 문제 | 불리 | 유리 |
+
+</div>
+</details>
 <br/>
 <br/>
 <br/>
