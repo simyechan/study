@@ -20,7 +20,12 @@
 
 </div>
 </details>
-
+<details>
+<summary>운영체제</summary>
+<div markdown="1">
+1. [운영체제](#1-운영체제)
+</div>
+</details>
 ---
 <details>
 <summary>자료구조, 알고리즘</summary>
@@ -384,6 +389,30 @@
 | key를 통한 검색 | 리프 노드까지 가지 않아도 되는 경우 있음 | 무조건 리프 노드까지 가야 함 |
 | 높이 | 높음 | 낮음 |
 
+<br/>
+<br/>
+<br/>
+
+---
+</div>
+</details>
+
+</div>
+</details>
+<details>
+<summary>운영체제</summary>
+<div markdown="1">
+1. [운영체제](#1-운영체제)
+</div>
+</details>
+---
+<details>
+<summary>운영체제</summary>
+<div markdown="1">
+
+## 1. 운영체제
+### 시스템의 자원과 동작을 관리하는 소프트웨어
+### 프로세스, 저장장치, 네트워킹, 사용자, 하드웨어를 관리
 <br/>
 <br/>
 <br/>
