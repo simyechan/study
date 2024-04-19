@@ -27,7 +27,9 @@
 1. [운영체제](#1-운영체제)
 </div>
 </details>
+
 ---
+
 <details>
 <summary>자료구조, 알고리즘</summary>
 <div markdown="1">
