@@ -400,12 +400,6 @@
 
 </div>
 </details>
-<details>
-<summary>운영체제</summary>
-<div markdown="1">
-1. [운영체제](#1-운영체제)
-</div>
-</details>
 ---
 
 ## 1. 운영체제
