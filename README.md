@@ -398,9 +398,9 @@
 </div>
 </details>
 
-</div>
-</details>
----
+<details>
+<summary>운영체제</summary>
+<div markdown="1">
 
 ## 1. 운영체제
 ### 시스템의 자원과 동작을 관리하는 소프트웨어
