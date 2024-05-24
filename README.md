@@ -80,6 +80,27 @@
 </div>
 </details>
 
+</div>
+</details>
+<details>
+
+<summary>java</summary>
+<div markdown="1">
+</div>
+</details>
+
+</div>
+</details>
+<details>
+
+<summary>spring boot</summary>
+<div markdown="1">
+
+1. [IOC](#1-ioc)
+2. [DI](#2-di)
+</div>
+</details>
+
 ---
 
 <details>
@@ -748,6 +769,47 @@ RESTful : REST의 원리를 잘 따르는 시스템
 <br/>
 <br/>
 <br/>
+
+---
+
+</div>
+</details>
+
+<details>
+<summary>spring boot</summary>
+<div markdown="1">
+
+## 1. IOC
+### 제어의 역전
+- 객체의 생성과 의존성 관리를 외부에서 담당
+- 객체를 직접 생성하거나 제어하는 것이 아니라 외부(컨테이너)에서 주입받아서 사용
+  ```java
+  // 객체를 직접 생성
+  public class A {
+  	b = new B();
+  }
+  ```
+
+  ```java
+  // 객체를 생성하지 않고, 객체를 받아서 할당
+  public class A {
+   private B b;
+  }
+  ```
+  <br/>
+  <br/>
+  <br/>
+
+---
+
+## 2. DI
+### 의존성 주입
+- 객체 지향 프로그래밍에서 사용되는 설계 원칙 중 하나
+- 객체 간의 의존성을 외부에서 주입하는 방식
+- 객체가 필요로 하는 의존성을 외부에서 주입받아 사용하여 결합도를 낮출 수 있고, 코드의 재사용성과 유연성을 높일 수 있음
+  <br/>
+  <br/>
+  <br/>
 
 ---
 
